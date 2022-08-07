@@ -1,1 +1,0 @@
-# OpenKattis-Model
